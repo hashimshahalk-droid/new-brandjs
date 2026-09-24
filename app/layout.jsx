@@ -3,6 +3,9 @@
 export const metadata = {
   title: "HP in Pictures | Hindustan Petroleum",
   description: "Explore HPCL in pictures: people, places and progress across India's energy journey.",
+  verification: {
+    google: "9gOWb-Jnv3eFSGx5no_qDnB8hGkEjuGvqIDoFJiFKoU",
+  },
 };
 
 export default function RootLayout({ children }) {
